@@ -136,13 +136,16 @@ This script defines a Scrapy spider named `WikiHowSpider` for crawling WikiHow w
 
 BIBILIOGRAPHY:
 
-CITATIONS
+CITATIONS:
 
-1.https://www.baeldung.com/crawler4j
+1. https://dl.acm.org/doi/10.1145/1067268.1067287
 
-2.https://chat.openai.com/share/245753cc-ec81-4981-ac1e-c4202e5fe259
+2. https://www.baeldung.com/crawler4j
 
-3.https://www.scrapingbee.com/blog/crawling-python/
+3. https://chat.openai.com/share/245753cc-ec81-4981-ac1e-c4202e5fe259
+
+4. https://www.scrapingbee.com/blog/crawling-python/
+
 
 
 
