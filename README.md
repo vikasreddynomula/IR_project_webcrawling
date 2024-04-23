@@ -88,6 +88,17 @@ DATA SOURCES:
 
 SOURCE CODE:
 
+DEPENDECIES:
+
+1.scrapy
+2.flask
+3.python
+4.nicegui
+5.nltk
+6.sklearn
+
+DOCUMENTATION:
+
 1. processor.py:
 
 This code implements a Flask-based web service for handling text queries and returning relevant documents. It also includes a data collection component using Scrapy for web crawling. Here's a brief overview of its functionality in 10 lines:
